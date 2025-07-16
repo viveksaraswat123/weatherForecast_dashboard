@@ -20,6 +20,8 @@ Inside this repository:
 - `weather_forecast_dashborad.pdf` – A presentation-style export of the dashboard
 
 **Sample Dashboard**
+<img width="781" height="440" alt="image" src="https://github.com/user-attachments/assets/628e0639-8230-41fe-89d2-38ee54dfd302" />
+
 <img width="796" height="443" alt="image" src="https://github.com/user-attachments/assets/fbce23b0-caca-47fc-8089-9c98a25304e4" />
 
 
